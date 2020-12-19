@@ -1,0 +1,7 @@
+{
+  "name": "vue-tailwind-sass",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
